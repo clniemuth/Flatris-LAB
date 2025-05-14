@@ -54,7 +54,7 @@
     "babel-jest": "24.8.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-module-resolver": "^3.2.0",
-    "css-loader": "^3.1.0",
+    "css-loader": "^3.6.0",
     "eslint": "^6.1.0",
     "eslint-import-resolver-babel-module": "^5.1.0",
     "eslint-plugin-babel": "^5.3.0",
@@ -73,6 +73,8 @@
     "react-cosmos-redux": "^1.1.0",
     "react-test-renderer": "^16.8.6",
     "redux-devtools-extension": "^2.13.8",
-    "style-loader": "^0.23.1"
+    "style-loader": "^0.23.1",
+    "webpack": "^4.47.0",
+    "webpack-cli": "^3.3.12"
   }
 }
